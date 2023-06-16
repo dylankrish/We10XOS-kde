@@ -1,4 +1,6 @@
-## We10XOS KDE Theme
+## We10XOS Legacy KDE Theme
+
+This fork aims to preserve the old look of WinSur KDE
 
 We10XOS kde is a light clean theme for KDE Plasma desktop.
 
